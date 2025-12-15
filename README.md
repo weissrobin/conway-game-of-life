@@ -10,10 +10,6 @@ Toto je full-screen implementace **Conwayovy Hry života** pomocí HTML5 Canvas 
 - Podpora testování běžných patternů: **Blinker**, **Block**, **Glider**
 - Plynulá animace s možností upravit rychlost aktualizace
 
-### Jak používat
-1. Naklonujte repozitář:
-```git clone https://github.com/your-username/conway-game-of-life.git```
-
 ## English
 
 This is a full-screen implementation of **Conway's Game of Life** using HTML5 Canvas and JavaScript.
@@ -23,7 +19,3 @@ This is a full-screen implementation of **Conway's Game of Life** using HTML5 Ca
 - Classic Conway rules for cell survival, birth, and death
 - Supports testing common patterns: **Blinker**, **Block**, **Glider**
 - Smooth animation with adjustable update speed
-
-### How to Use
-1. Clone the repository:
-```git clone https://github.com/your-username/conway-game-of-life.git```
