@@ -12,8 +12,7 @@ Toto je full-screen implementace **Conwayovy Hry života** pomocí HTML5 Canvas 
 
 ### Jak používat
 1. Naklonujte repozitář:
-```bash
-git clone https://github.com/your-username/conway-game-of-life.git
+```git clone https://github.com/your-username/conway-game-of-life.git```
 
 ## English
 
@@ -27,5 +26,4 @@ This is a full-screen implementation of **Conway's Game of Life** using HTML5 Ca
 
 ### How to Use
 1. Clone the repository:
-```bash
-git clone https://github.com/your-username/conway-game-of-life.git
+```git clone https://github.com/your-username/conway-game-of-life.git```
